@@ -6,7 +6,7 @@ Welcome to my personal portfolio website — a digital space where I showcase my
 
 ## 🔗 Live Website
 
-👉 https://Ravi8345.github.io/Personal-Portfolio
+👉 https://ravi8345.github.io/Personal-portfolio/
 
 ---
 
